@@ -1,4 +1,4 @@
-# Exoplanet Classification and Habitability Analysis (NASA Exoplanet Archive)
+# Exoplanet Classification and Habitability Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org)
