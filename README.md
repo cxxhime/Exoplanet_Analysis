@@ -7,7 +7,7 @@
 # Exoplanet Analysis Project
 
 ## Project Objective
-Comprehensive analysis of 5,000+ confirmed exoplanets from NASA Exoplanet Archive to identify classification patterns, validate physical relationships, and discover potentially habitable candidates using statistical analysis and machine learning techniques.
+Transform raw NASA exoplanet dataset (38,000+ entries) into actionable insights for habitability detection and planetary classification using advanced data cleaning, statistical analysis, and machine learning techniques. Final cleaned dataset: 5,903 confirmed exoplanets with 96.3% prediction accuracy.
 
 ## Key Results
 - **Habitability Analysis**: 4 potentially habitable candidates identified from 1,639 analyzed (0.2% success rate)
